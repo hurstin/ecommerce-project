@@ -18,7 +18,7 @@ const HomePage = () => {
                 </div>
 
                 <div className="product-name limit-text-to-2-lines">
-                  {product.name}
+                  {product.name} austin
                 </div>
 
                 <div className="product-rating-container">
